@@ -1,0 +1,6 @@
+Marina Bay Sands,1.283352,103.860662
+What is the total cost of constructing Marina Bay Sands?,$8 billion,$5.7 billion,$10 billion,1
+How many hotel rooms are there in Marina Bay Sands?,2,561 rooms,1,823 rooms,3,000 rooms,0
+What is the length of the Marina Bay Sands SkyPark?,200 meters,340 meters,500 meters,1
+Which renowned architect designed Marina Bay Sands?,Zaha Hadid,Moshe Safdie,Norman Foster,1
+What is unique about the Marina Bay Sands Infinity Pool?,It is the highest in the world,It is the longest elevated pool in the world,It uses seawater instead of freshwater,1
