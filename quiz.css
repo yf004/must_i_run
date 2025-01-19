@@ -1,0 +1,214 @@
+/* General Styling */
+body {
+  margin: 0;
+  font-family: 'Anonymous Pro', monospace;
+  background: #FFFFFF;
+}
+
+/* Container */
+.container {
+  position: relative;
+  width: 412px;
+  height: 917px;
+  margin: 0 auto;
+  background: #FFFFFF;
+}
+
+/* Rectangle 33 */
+.rectangle-33 {
+  position: absolute;
+  width: 343px;
+  height: 654px;
+  left: 84px;
+  top: 132px;
+  background: #715971;
+}
+
+/* Rectangle 32 */
+.rectangle-32 {
+  position: absolute;
+  width: 226px;
+  height: 288px;
+  left: -39px;
+  top: 681px;
+  background: #B2A9CE;
+}
+
+/* Rectangle 10 */
+.rectangle-10 {
+  position: absolute;
+  width: 367px;
+  height: 385px;
+  left: 22px;
+  top: 379px;
+  background: #AE9DB0;
+  border-radius: 75px;
+}
+
+/* Rectangle 34 */
+.rectangle-34 {
+  position: absolute;
+  width: 180px;
+  height: 313px;
+  left: 0px;
+  top: 0px;
+  background: #B886DC;
+}
+
+/* Rectangle 35 */
+.rectangle-35 {
+  position: absolute;
+  width: 157px;
+  height: 29px;
+  left: 243px;
+  top: 143px;
+  background: #C5AECC;
+}
+
+/* Rectangle 36 */
+.rectangle-36 {
+  position: absolute;
+  width: 378px;
+  height: 88px;
+  left: 34px;
+  top: 55px;
+  background: #F7E9FF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Title */
+.title {
+  position: absolute;
+  width: 312px;
+  height: 69px;
+  left: 77px;
+  top: 64px;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 50px;
+  line-height: 69px;
+  color: #585858;
+  text-align: center;
+}
+
+/* Rectangle 38 */
+.rectangle-38 {
+  position: absolute;
+  width: 369px;
+  height: 161px;
+  left: 0px;
+  top: 194px;
+  background: #9F719E;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Question */
+.question {
+  position: absolute;
+  width: 315px;
+  height: 100px;
+  left: 40px;
+  top: 222px;
+  font-size: 25px;
+  line-height: 25px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+/* Buttons */
+.button1,
+.button2,
+.button3 {
+  position: absolute;
+  width: 308px;
+  height: 60px;
+  background: #F1F1F1;
+  border-radius: 46px;
+}
+
+/* Button Positions */
+.button1 {
+  left: 52px;
+  top: 476px;
+}
+
+.button2 {
+  left: 52px;
+  top: 567px;
+}
+
+.button3 {
+  left: 52px;
+  top: 658px;
+}
+
+/* Options */
+.option1,
+.option2,
+.option3 {
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  color: #555555;
+  padding: 15px 0;
+}
+
+/* Your Answer */
+.your-ans {
+  position: absolute;
+  width: 225px;
+  height: 35px;
+  left: 93px;
+  top: 410px;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+/* Back Button */
+.backbutton {
+  position: absolute;
+  width: 160px;
+  height: 53px;
+  left: 28px;
+  top: 794px;
+  background: #FFA9A9;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 69px;
+}
+
+.back {
+  position: absolute;
+  width: 130px;
+  height: 25px;
+  left: 15px;
+  top: 14px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  color: #555555;
+}
+
+/* Check Button */
+.checkbutton {
+  position: absolute;
+  width: 160px;
+  height: 53px;
+  left: 224px;
+  top: 794px;
+  background: #93D7FF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 69px;
+}
+
+.check {
+  position: absolute;
+  width: 130px;
+  height: 25px;
+  left: 15px;
+  top: 14px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  color: #555555;
+}

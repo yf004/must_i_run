@@ -1,0 +1,195 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    position: relative;
+    width: 412px;
+    height: 917px;
+    background: #FFFFFF;
+    margin: 0 auto;
+  }
+  
+  /* Rectangle 19 */
+  .rectangle-19 {
+    position: absolute;
+    width: 412px;
+    height: 917px;
+    left: 0;
+    top: 0;
+    background: #D9D9D9;
+  }
+  
+  /* Image 2 */
+  .image-2 {
+    position: absolute;
+    width: 412px;
+    height: 448px;
+    left: 0;
+    top: 0;
+    background: url('image.png');
+    background-size: cover;
+  }
+  
+  /* Rectangle 2 */
+  .rectangle-2 {
+    position: absolute;
+    width: 412px;
+    height: 519px;
+    left: 0;
+    top: 398px;
+    background: #766C86;
+    border-radius: 50px;
+  }
+  
+  /* Enter Duration */
+  .enterduration {
+    position: absolute;
+    width: 310px;
+    height: 73px;
+    left: 51px;
+    top: 506px;
+    background: #E3DEED;
+    border-radius: 69px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #939393;
+    text-align: center;
+  }
+
+  
+  /* Team Code Display */
+  .teamcodedisplay {
+    position: absolute;
+    width: 310px;
+    height: 73px;
+    left: 51px;
+    top: 683px;
+    background: #E3DEED;
+    border-radius: 69px;
+  }
+
+  .teamcodetext{
+    position: absolute;
+    width: 310px;
+    height: 73px;
+    left: 51px;
+    top: 710px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #383838;
+    text-align: center;
+  }
+  
+  /* Start Button */
+  .startbutton {
+    position: absolute;
+    width: 184px;
+    height: 73px;
+    left: 114px;
+    top: 799px;
+    background: #B5B3BF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 69px;
+  }
+  
+  
+  
+  /* Duration */
+  .duration {
+    position: absolute;
+    width: 153px;
+    height: 35px;
+    left: 130px;
+    top: 448px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    color: #FFFFFF;
+  }
+  
+  /* Team Code */
+  .team-code {
+    position: absolute;
+    width: 172px;
+    height: 35px;
+    left: 120px;
+    top: 629px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    color: #FFFFFF;
+  }
+  
+  /* Start! */
+  .start-text {
+    position: absolute;
+    width: 115px;
+    height: 35px;
+    left: 153px;
+    top: 818px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    color: #484848;
+  }
+  
+  /* Geoguessr V. */
+  .geoguessr-v {
+    position: absolute;
+    width: 437px;
+    height: 48px;
+    left: -8px;
+    top: 211px;
+    font-family: 'Architects Daughter', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 76px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  /* Rectangle 25 */
+  .rectangle-25 {
+    position: absolute;
+    width: 71px;
+    height: 148px;
+    left: 0;
+    top: 0;
+    background: #B1ACC3;
+  }
+  
+  /* Rectangle 26 */
+  .rectangle-26 {
+    position: absolute;
+    width: 53px;
+    height: 55px;
+    left: 61px;
+    top: 68px;
+    background: rgba(101, 88, 136, 0.7);
+  }
+  
+  /* Rectangle 24 */
+  .rectangle-24 {
+    position: absolute;
+    width: 28px;
+    height: 94px;
+    left: 384px;
+    top: 284px;
+    background: #C3B9DF;
+  }
+  

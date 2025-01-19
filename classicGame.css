@@ -1,0 +1,227 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    border-radius: 40px;
+  }
+    
+  
+  .container {
+    position: relative;
+    width: 412px;
+    height: 917px;
+    background: #FFFFFF;
+    margin: 0 auto;
+  }
+  .task {
+    text-decoration: none;
+    margin: 15px 40px;
+    padding: 15px;
+    background-color: #eaeaea;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 20x;
+    line-height: 35px;
+    color:#585858;
+  }
+  
+  /* Rectangle 31 */
+  .rectangle-31 {
+    position: absolute;
+    width: 412px;
+    height: 917px;
+    left: 0;
+    top: 0;
+    background: #D9D9D9;
+  }
+  
+  /* Rectangle 33 */
+  .rectangle-33 {
+    position: absolute;
+    width: 343px;
+    height: 654px;
+    left: 84px;
+    top: 132px;
+    background: #596671;
+  }
+  
+  /* Rectangle 32 */
+  .rectangle-32 {
+    position: absolute;
+    width: 226px;
+    height: 288px;
+    left: -39px;
+    top: 681px;
+    background: #A9BDCE;
+  }
+  
+  /* Rectangle 10 */
+  .rectangle-10 {
+    position: absolute;
+    width: 367px;
+    height: 480px;
+    left: 22px;
+    top: 399px;
+    background: #969696;
+    border-radius: 75px;
+  }
+  
+  /* Tasks Available */
+  .tasksavailable {
+    position: absolute;
+    width: 308px;
+    height: 318px;
+    left: 52px;
+    top: 528px;
+    background: #F1F1F1;
+    border-radius: 46px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    
+  }
+ 
+  
+  /* TASKS AVAILABLE */
+  .tasks-available {
+    position: absolute;
+    width: 225px;
+    height: 70px;
+    left: 95px;
+    top: 429px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  /* Rectangle 34 */
+  .rectangle-34 {
+    position: absolute;
+    width: 180px;
+    height: 313px;
+    left: 0;
+    top: 0;
+    background: #86A6DC;
+  }
+  
+  /* Rectangle 35 */
+  .rectangle-35 {
+    position: absolute;
+    width: 126px;
+    height: 48px;
+    left: 270px;
+    top: 182px;
+    background: #AECCC4;
+  }
+  
+  /* Rectangle 37 */
+  .rectangle-37 {
+    position: absolute;
+    width: 126px;
+    height: 48px;
+    left: 256px;
+    top: 893px;
+    background: #CCDDD8;
+  }
+  
+  /* Time Remaining */
+  .timeremaining {
+    position: absolute;
+    width: 325px;
+    height: 94px;
+    left: 44px;
+    top: 188px;
+    background: #FFFFFF;
+    border-radius: 82px;
+  }
+
+  /* Time Remaining */
+  .timer {
+    position: absolute;
+    width: 325px;
+    height: 94px;
+    left: 44px;
+    top: 222px;
+    color: #585858;
+    border-radius: 82px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 25px;
+    text-align: center;
+  }
+  
+  /* Time remaining (text) */
+  .time-remaining {
+    position: absolute;
+    width: 358px;
+    height: 48px;
+    left: 24px;
+    top: 122px;
+    font-family: 'Architects Daughter', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 63px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  /* Rectangle 36 */
+  .rectangle-36 {
+    position: absolute;
+    width: 395px;
+    height: 59px;
+    left: 34px;
+    top: 50px;
+    background: #E9FEFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  /* Rectangle 38 */
+  .rectangle-38 {
+    position: absolute;
+    width: 418px;
+    height: 59px;
+    left: -49px;
+    top: 315px;
+    background: #71879F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  /* Game has started... */
+  .game-started {
+    position: absolute;
+    width: 260px;
+    height: 25px;
+    left: 73px;
+    top: 67px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    color: #585858;
+  }
+  
+  /* Current status: */
+  .current-status {
+    position: absolute;
+    width: 350px;
+    height: 25px;
+    left: 27px;
+    top: 331px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    color: #FFFFFF;
+  }
+  

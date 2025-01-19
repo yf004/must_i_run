@@ -1,0 +1,302 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Anonymous Pro', monospace; /* Default font for the body */
+}
+
+/* Start Screen */
+.start-container {
+    position: relative;
+    width: 412px;
+    height: 917px;
+    background: #FFFFFF;
+}
+
+/* Rectangle 12 */
+.rectangle-12 {
+    position: absolute;
+    width: 412px;
+    height: 917px;
+    left: 0;
+    top: 0;
+    background: #F1DFAD;
+}
+
+/* Rectangle 6 */
+.rectangle-6 {
+    position: absolute;
+    width: 216px;
+    height: 604px;
+    left: 0;
+    top: 116px;
+    background: #7E977D;
+}
+
+/* Rectangle 8 */
+.rectangle-8 {
+    position: absolute;
+    width: 381px;
+    height: 426px;
+    left: 16px;
+    top: 491px;
+    background: #CEDBCD;
+}
+
+/* Rectangle 14 */
+.rectangle-14 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 14px;
+    top: 16px;
+    background: #FFFFFF;
+}
+
+/* Rectangle 16 */
+.rectangle-16 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 353px;
+    top: 435px;
+    background: #FFFFFF;
+}
+
+/* Rectangle 17 */
+.rectangle-17 {
+    position: absolute;
+    width: 42px;
+    height: 37px;
+    left: 0;
+    top: 880px;
+    background: #FFFFFF;
+}
+
+/* Rectangle 15 */
+.rectangle-15 {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 17px;
+    top: 27px;
+    background: #EBEBBE;
+}
+
+/* Rectangle 18 */
+.rectangle-18 {
+    position: absolute;
+    width: 26px;
+    height: 319px;
+    left: 386px;
+    top: 571px;
+    background: #EBEBBE;
+}
+
+/* Rectangle 7 */
+.rectangle-7 {
+    position: absolute;
+    width: 295px;
+    height: 459px;
+    left: 117px;
+    top: 0;
+    background: #637263;
+}
+
+/* Rectangle 9 */
+.rectangle-9 {
+    position: absolute;
+    width: 294px;
+    height: 124px;
+    left: 59px;
+    top: 61px;
+    background: #8F8F8F;
+    border-radius: 82px;
+}
+
+/* Welcome Text */
+.welcome {
+    position: absolute;
+    width: 213px;
+    height: 59px;
+    left: 100px;
+    top: 93px;
+    font-family: 'Architects Daughter', cursive; /* Assuming 'Architects Daughter' is a custom font */
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 69px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* Rectangle 10 */
+.rectangle-10 {
+    position: absolute;
+    width: 333px;
+    height: 640px;
+    left: 39px;
+    top: 217px;
+    background: #535353;
+    border-radius: 75px;
+}
+
+/* Or Text */
+.or {
+    position: absolute;
+    width: 26px;
+    height: 23px;
+    left: 194px;
+    top: 429px;
+    font-family: 'Anonymous Pro';
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* Geoguessrv Button */
+.geoguessrv {
+    position: absolute;
+    width: 260px;
+    height: 64px;
+    left: 76px;
+    top: 641px;
+    background: #E3DEED;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 69px;
+}
+
+/* Geoguessr V. Text */
+.geoguessr-title {
+    position: absolute;
+    width: 178px;
+    height: 22px;
+    left: 127px;
+    top: 662px;
+ font-family: 'Anonymous Pro';
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    color: #555555;
+}
+
+/* Singapore V. Button */
+.singaporev {
+    position: absolute;
+    width: 260px;
+    height: 64px;
+    left: 76px;
+    top: 731px;
+    background: #DEE6ED;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 69px;
+}
+
+/* Singapore V. Text */
+.singaporev-title {
+    position: absolute;
+    width: 178px;
+    height: 22px;
+    left: 127px;
+    top: 753px;
+    font-family: 'Anonymous Pro';
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    color: #555555;
+}
+
+/* Enter Game Code Button */
+.enter-game-code {
+    position: absolute;
+    width: 227px;
+    height: 73px;
+    left: 94px;
+    top: 332px;
+    background: #F1F1F1;
+    border-radius: 69px;
+    font-family: 'Anonymous Pro';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #939393;
+    text-align: center;
+}
+
+/* Classic Button */
+.classic {
+    position: absolute;
+    width: 260px;
+    height: 64px;
+    left: 76px;
+    top: 550px;
+    background: #EDDEDE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 69px;
+}
+
+/* Classic Text */
+.classic-title {
+    position: absolute;
+    width: 130px;
+    height: 33px;
+    left: 157px;
+    top: 570px;
+    font-family: 'Anonymous Pro';
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    color: #555555;
+}
+
+
+
+/* Join Game Button */
+.join-game {
+    position: absolute;
+    width: 172px;
+    height: 35px;
+    left: 121px;
+    top: 267px;
+    font-family: 'Anonymous Pro';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+/* Create New Game Button */
+.create-new-game {
+    position: absolute;
+    width: 157px;
+    height: 70px;
+    left: 128px;
+    top: 453px;
+    font-family: 'Anonymous Pro';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.rectangle {
+    position: absolute;
+    width: 333px;
+    height: 640px;
+    left: 39px;
+    top: 217px;
+    background: #535353;
+    border-radius: 75px;
+}
+
+
+
+
+
+
+
+
+

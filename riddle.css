@@ -1,0 +1,246 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  position: relative;
+  width: 412px;
+  height: 917px;
+  background: #FFFFFF;
+  margin: 0 auto;
+}
+
+/* Enter Answer Box */
+.enteranswer {
+  position: absolute;
+  width: 356px;
+  height: 65px;
+  left: 28px;
+  top: 664px;
+  background: #F1F1F1;
+  border-radius: 69px;
+}
+
+/* Hint Button */
+.hintbutton {
+  position: absolute;
+  left: 80.34%;
+  right: 9.95%;
+  top: 73.83%;
+  bottom: 21.81%;
+}
+
+/* Icon */
+.icon {
+  position: absolute;
+  left: 20.83%;
+  right: 20.83%;
+  top: 8.33%;
+  bottom: 8.33%;
+  background: #F8B600;
+}
+
+/* Subtract Button */
+.subtract {
+  position: absolute;
+  width: 23.33px;
+  height: 33.33px;
+  left: 8.33px;
+  top: 3.33px;
+  background: #DADADA;
+}
+
+/* Path 1 */
+.path1 {
+  position: absolute;
+  left: 20.83%;
+  right: 20.83%;
+  top: 8.33%;
+  bottom: 8.33%;
+}
+
+/* Path 2 */
+.path2 {
+  position: absolute;
+  left: 29.17%;
+  right: 29.17%;
+  top: 16.67%;
+  bottom: 16.67%;
+}
+
+/* Path 3 */
+.path3 {
+  position: absolute;
+  left: 35.01%;
+  right: 35.01%;
+  top: 63.32%;
+  bottom: 25%;
+}
+
+/* Back Button */
+.backbutton {
+  position: absolute;
+  width: 160px;
+  height: 53px;
+  left: 28px;
+  top: 795px;
+  background: #FFA9A9;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 69px;
+}
+
+/* Back Text */
+.back {
+  position: absolute;
+  width: 130px;
+  height: 25px;
+  left: 43px;
+  top: 809px;
+  font-family: 'Anonymous Pro', monospace;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 25px;
+  text-align: center;
+  color: #555555;
+}
+
+/* Check Button */
+.checkbutton {
+  position: absolute;
+  width: 160px;
+  height: 53px;
+  left: 224px;
+  top: 795px;
+  background: #93D7FF;
+  border-radius: 69px;
+}
+
+/* Check Text */
+.check {
+  position: absolute;
+  width: 130px;
+  height: 25px;
+  left: 241px;
+  top: 809px;
+  font-family: 'Anonymous Pro', monospace;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 25px;
+  text-align: center;
+  color: #555555;
+}
+
+/* Question Text */
+.question {
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  left: 34px;
+  top: 596px;
+  font-family: 'Anonymous Pro', monospace;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 25px;
+  text-align: center;
+  color: #000000;
+}
+
+/* Rectangle 9 */
+.rectangle-9 {
+  position: absolute;
+  width: 331px;
+  height: 137px;
+  left: 40px;
+  top: 75px;
+  background: #9E7B42;
+  border-radius: 82px;
+}
+
+/* Task Title */
+.task-title {
+  position: absolute;
+  width: 253px;
+  height: 109px;
+  left: 79px;
+  top: 110px;
+  font-family: 'Architects Daughter', cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 60px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+/* Rectangle 40 */
+.rectangle-40 {
+  position: absolute;
+  width: 433px;
+  height: 171px;
+  left: 212.68px;
+  top: 376.71px;
+  background: #D9D9D9;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  transform: rotate(4.11deg);
+}
+
+/* Rectangle 39 */
+.rectangle-39 {
+  position: absolute;
+  width: 727px;
+  height: 250.01px;
+  left: -135.08px;
+  top: 292.94px;
+  background: #F5E9C6;
+  box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+  transform: rotate(-8deg);
+}
+
+/* Riddle */
+.riddle {
+  position: absolute;
+  width: 367px;
+  height: 120px;
+  left: 16px;
+  top: 307.08px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: sans-serif;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  color: #000000;
+  transform: rotate(-8deg);
+}
+
+/* P.S. */
+.ps {
+  position: absolute;
+  width: 194px;
+  height: 32px;
+  left: 20px;
+  top: 478px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 32px;
+  text-align: center;
+  color: #000000;
+  transform: rotate(-8deg);
+}
+
+/* Rectangle 41 */
+.rectangle-41 {
+  position: absolute;
+  width: 334px;
+  height: 122px;
+  left: 154.22px;
+  top: -85px;
+  background: #FEF5DA;
+  transform: rotate(8.59deg);
+}

@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    position: relative;
+    width: 412px;
+    height: 917px;
+    background: #FFFFFF;
+    margin: 0 auto;
+  }
+  .typeLabel {
+    position: absolute;
+    width: 350px;
+    height: 54px;
+    left: 34px;
+    top: 320px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+  }
+  
+  /* Rectangle 9 */
+  .title-rect {
+    position: absolute;
+    width: 331px;
+    height: 188px;
+    left: 40px;
+    top: 100px;
+    background: #597578;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 82px;
+  }
+  
+  /* Task Title */
+  .task-title {
+    position: absolute;
+    width: 253px;
+    height: 144px;
+    left: 76px;
+    top: 132px;
+    font-family: 'Architects Daughter', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+
+  
+  .descArea {
+    position: absolute;
+    width: 331px;
+    height: 350px;
+    left: 40px;
+    top: 400px;
+    background: #e0e0e0;
+    border-radius: 50px;
+    /* Optional: centers content horizontally if using flexbox */
+  }
+
+  .descText {
+    position: absolute;
+    width: 255px;
+    height: 350px;
+    left: 40px;
+    top: 400px;
+    right: 40px;
+    padding: 35px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+    
+  }
+
+  .display {
+    position: absolute;
+    width: 255px;
+    height: 350px;
+    left: 40px;
+    top: 702px;
+    right: 40px;
+    padding: 35px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 8px;
+    line-height: 27px;
+    color: #000000;
+    text-align: center;
+    
+  }
+ 
+  
+  /* Back Button */
+  .backbutton {
+    position: absolute;
+    width: 160px;
+    height: 53px;
+    left: 28px;
+    top: 802px;
+    background: #FFA9A9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 69px;
+  }
+  
+  /* Back Text */
+  .back {
+    position: absolute;
+    width: 130px;
+    height: 25px;
+    left: 43px;
+    top: 816px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+    color: #555555;
+  }
+
+    /* Back Button */
+    .startbutton {
+      position: absolute;
+      width: 160px;
+      height: 53px;
+      left: 245px;
+      top: 802px;
+      background: #FFA9A9;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 69px;
+    }
+    
+    /* Back Text */
+    .start {
+      position: absolute;
+      width: 130px;
+      height: 25px;
+      left: 260px;
+      top: 816px;
+      font-family: 'Anonymous Pro', monospace;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 25px;
+      line-height: 25px;
+      text-align: center;
+      color: #555555;
+      border-width: 0px;
+    }
+  
+
+  
